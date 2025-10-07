@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats (Glowing)
+## 📊 GitHub Stats
 
 ![MC_LAZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=rucielmaeobias21&show_icons=true&theme=radical&count_private=true)  
 
