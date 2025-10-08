@@ -15,9 +15,10 @@
 
 ## 📊 GitHub Stats
 
-![MC_LAZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=rucielmaeobias21&show_icons=true&theme=radical&count_private=true)  
+![MC_LAZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+lazoadriane5-maker&show_icons=true&theme=radical&count_private=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rucielmaeobias21&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lazoadriane5-maker&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazoadriane5-maker&layout=compact&theme=radical)
 
