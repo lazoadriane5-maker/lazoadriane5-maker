@@ -15,8 +15,7 @@
 
 ## 📊 GitHub Stats
 
-![MC_LAZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=
-lazoadriane5-maker&show_icons=true&theme=radical&count_private=true)  
+![MC_LAZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazoadriane5-maker&show_icons=true&theme=radical&count_private=true)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lazoadriane5-maker&theme=radical)  
 
