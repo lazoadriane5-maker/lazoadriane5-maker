@@ -19,7 +19,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rucielmaeobias21&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rucielmaeobias21&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazoadriane5-maker&layout=compact&theme=radical)
 
 ---
 
